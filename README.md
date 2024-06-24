@@ -8,6 +8,6 @@ Tutorial Link : https://www.udemy.com/course/unreal-engine-5-control-rig-procedu
 Animations are used from mixamo.
 
 Topics:
-1). Use Of Control Rigs
+1). Use Of Control Rigs \n
 2). Animation Retargating.
 3). Adjusting Animation Using Control Rig (In this project Ladder Climbing animation is use to adjust animation to my custom ladder).
