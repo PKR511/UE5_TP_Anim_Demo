@@ -8,7 +8,10 @@
 
 <h3>Animations are used from mixamo.</h3><br/>
 
-<h1>Topics:</h1>
-1. Use Of Control Rigs. 
+<h3>Purpose : </h3>
+
+1. Use Of Control Rigs.
 2. Animation Retargating.
 3. Adjusting Animation Using Control Rig (In this project Ladder Climbing animation is use to adjust animation to my custom ladder). 
+
+
